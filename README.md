@@ -1,0 +1,2 @@
+# Satheesh_LoanDepot
+The function takes a String as an input. It then creates an array from the string. Now, we take a temporary Hash-Table and use it to store the unique elements that we encounter as we parse the arrary. During this, we also check if the element read from the array is also present in the Hash Table. I it is present, then we return it saying that it is the first recurring character in the given string.
